@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi! I'm Asya 👋
 
-<!--
-**AsyaAndreeva/AsyaAndreeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**19 years old & from Bulgaria.**
 
-Here are some ideas to get you started:
+- :computer: I'm majoring in informatics at New Bulgarian University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :black_nib: I'm studying Graphic Design in SoftUni Creative.
+
+## Fun fact: I have a twin:
+***//Simona Andreeva***
+
+
+
+:2nd_place_medal: We won 2th place at the National Olympiad of Information Technologies 2018
+ 
+**&**
+ 
+:medal_sports: We won 4th place at the National Olympiad of Information Technologies 2017
+ 
+## As part of a team:
+
+ :trophy: Ended as National Champions on "Robotics for Bulgaria" in 2017 & 2019
+ 
+ **&**
+ 
+:medal_sports: We won 6th place at the The International Contest of Children Engineering Teams 2018 in Russia
