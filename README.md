@@ -6,6 +6,9 @@
 
 - :black_nib: I'm studying Graphic Design at SoftUni Creative.
 
+## How to reach me:
+You can find all of my social media accounts on my LinkTree: https://linktr.ee/asyaandreeva
+
 ## Fun fact: I have a twin:
 **//her profile->Simona Andreeva**
 
