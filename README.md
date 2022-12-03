@@ -27,4 +27,4 @@ You can find all of my social media accounts on my LinkTree: https://linktr.ee/a
 :medal_sports: We won 6th place at the The International Contest of Children Engineering Teams 2018 in Russia
 
 ## Other interests:
-Writing, photography, traveling.
+Writing, photography, travelling.
