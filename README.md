@@ -1,6 +1,6 @@
 # Hi! I'm Asya 👋
 
-**19 years old & from Bulgaria.**
+**20 years old & from Bulgaria.**
 
 - :computer: I'm majoring in informatics at New Bulgarian University.
 
