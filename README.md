@@ -4,7 +4,7 @@
 
 - :computer: I'm majoring in informatics at New Bulgarian University.
 
-- :black_nib: I'm studying Graphic Design at SoftUni Creative.
+- :black_nib: I'm studying minor Web Design at New Bulgarian University.
 
 ## How to reach me:
 You can find all of my social media accounts on my LinkTree: https://linktr.ee/asyaandreeva
