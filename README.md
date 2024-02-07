@@ -14,5 +14,5 @@
 You can find all of my social media accounts on my LinkTree: https://linktr.ee/asyaandreeva
 
 ## Fun fact: I have a twin:
-**//her profile->Simona Andreeva**
+**//her profile->[Simona Andreeva](https://github.com/SimonaAndreeva)**
 
