@@ -11,7 +11,7 @@
 - :desktop_computer: Web developer at JT Design
 
 ## How to reach me:
-You can find more about me in my website -> [https://asyaandreeva.netlify.app/]
+You can find more about me in my website -> [https://asyaandreeva.netlify.app/**
 
 ## Fun fact: I have a twin:
 **//her profile->[Simona Andreeva](https://github.com/SimonaAndreeva)**
